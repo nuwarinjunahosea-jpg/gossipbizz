@@ -6,6 +6,7 @@ body {
     background: #000;
     color: #fff;
     line-height: 1.6;
+    font-size: 25px;
 }
 
 .header {
@@ -245,4 +246,11 @@ body {
 .card-link:hover h2,
 .card-link:hover h3 {
     color: #00d4ff;
+
+}
+p {
+    font-size: 22px;
+}
+h1,h2,h3 {
+    font-size:28px;
 }
